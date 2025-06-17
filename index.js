@@ -7,7 +7,7 @@ const mysql = require('mysql2/promise');
 
 const app = express();
 const PORT = 3000;
-const JWT_SECRET = 'hoQxyk-jurgoz-5fefre';
+const JWT_SECRET = 'ilinubsjahfk2i';
 
 app.use(bodyParser.json());
 
